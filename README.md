@@ -1,7 +1,6 @@
-##AIM
-####Ancient Inactive Mouthful
+##Slack Bot: A slack bot skeleton
 
-Sending messages with social API's.
+A create-your-own setup for a slack bot on your favorite team channels.
 
-KylePDorsey
 jeff-fichtner
+KylePDorsey
